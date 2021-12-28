@@ -45,5 +45,16 @@ namespace _4_2
                     break;
             }
         }
+        static void InputA(string input)
+        {
+            try
+            {
+                A = double.Parse(input);
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("Please type in a number.");
+            }
+        }
     }
 }
