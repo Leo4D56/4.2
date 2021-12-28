@@ -1,0 +1,13 @@
+C:\Users\levpo\Desktop\4_2\4_2\4_2\bin\Debug\netcoreapp3.1\4_2.exe
+C:\Users\levpo\Desktop\4_2\4_2\4_2\bin\Debug\netcoreapp3.1\4_2.deps.json
+C:\Users\levpo\Desktop\4_2\4_2\4_2\bin\Debug\netcoreapp3.1\4_2.runtimeconfig.json
+C:\Users\levpo\Desktop\4_2\4_2\4_2\bin\Debug\netcoreapp3.1\4_2.runtimeconfig.dev.json
+C:\Users\levpo\Desktop\4_2\4_2\4_2\bin\Debug\netcoreapp3.1\4_2.dll
+C:\Users\levpo\Desktop\4_2\4_2\4_2\bin\Debug\netcoreapp3.1\4_2.pdb
+C:\Users\levpo\Desktop\4_2\4_2\4_2\obj\Debug\netcoreapp3.1\4_2.csprojAssemblyReference.cache
+C:\Users\levpo\Desktop\4_2\4_2\4_2\obj\Debug\netcoreapp3.1\4_2.AssemblyInfoInputs.cache
+C:\Users\levpo\Desktop\4_2\4_2\4_2\obj\Debug\netcoreapp3.1\4_2.AssemblyInfo.cs
+C:\Users\levpo\Desktop\4_2\4_2\4_2\obj\Debug\netcoreapp3.1\4_2.csproj.CoreCompileInputs.cache
+C:\Users\levpo\Desktop\4_2\4_2\4_2\obj\Debug\netcoreapp3.1\4_2.dll
+C:\Users\levpo\Desktop\4_2\4_2\4_2\obj\Debug\netcoreapp3.1\4_2.pdb
+C:\Users\levpo\Desktop\4_2\4_2\4_2\obj\Debug\netcoreapp3.1\4_2.genruntimeconfig.cache
