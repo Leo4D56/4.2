@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\levpo\\Desktop\\4_2\\4_2\\4_2\\4_2.csproj",
+      "projectUniqueName": "C:\\Users\\levpo\\Source\\Repos\\4.2\\4_2\\4_2\\4_2.csproj",
       "projectName": "4_2",
-      "projectPath": "C:\\Users\\levpo\\Desktop\\4_2\\4_2\\4_2\\4_2.csproj",
+      "projectPath": "C:\\Users\\levpo\\Source\\Repos\\4.2\\4_2\\4_2\\4_2.csproj",
       "packagesPath": "C:\\Users\\levpo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\levpo\\Desktop\\4_2\\4_2\\4_2\\obj\\",
+      "outputPath": "C:\\Users\\levpo\\Source\\Repos\\4.2\\4_2\\4_2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\levpo\\AppData\\Roaming\\NuGet\\NuGet.Config",
